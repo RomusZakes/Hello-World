@@ -1,2 +1,5 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+img-responsive  fill screen width
 class "btn" button
+"btn-block" fill screen
+"btn-primary" adds color
