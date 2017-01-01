@@ -1,0 +1,5 @@
+We usually use decimals, or base 10 numbers, which use the symbols 0 to 9 for each digit.
+Hexadecimals (or hex) are base 16 numbers.
+This means it uses sixteen distinct symbols.
+Like decimals, the symbols 0-9 represents values zero to nine.
+Then A,B,C,D,E,F represent values ten to fifteen. Altogether, 0 to F can represent a digit in hexadecimal, giving us 16 total possible values.
