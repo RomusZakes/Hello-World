@@ -5,3 +5,9 @@ Like decimals, the symbols 0-9 represents values zero to nine.
 Then A,B,C,D,E,F represent values ten to fifteen. Altogether, 0 to F can represent a digit in hexadecimal, giving us 16 total possible values.
 In CSS, we can use 6 hexadecimal digits to represent colors, two each for the red (R), green (G), and blue (B) components.
 For example, #000000 is black and is also the lowest possible value.
+
+Color	Hex Code
+Dodger Blue - #2998E4
+Green       - #00FF00
+Orange	    - #FFA500
+Red         -	#FF0000
