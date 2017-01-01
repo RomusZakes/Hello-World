@@ -3,3 +3,4 @@ img-responsive  fill screen width
 class "btn" button
 "btn-block" fill screen
 "btn-primary" adds color
+btn-danger color red for DUH DANGER
