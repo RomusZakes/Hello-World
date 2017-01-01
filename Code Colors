@@ -19,6 +19,13 @@ This shortened form gives one digit for red, one digit for green, and one digit 
 This reduces the total number of possible colors to around 4,000.
 But browsers will interpret #FF0000 and #F00 as exactly the same color.
 
+Color	Short Hex Code
+
+Cyan	#0FF
+Green	#0F0
+Red	#F00
+Fuchsia	#F0F
+
 
 Another way you can represent colors in CSS is by using RGB values.
 
@@ -34,3 +41,12 @@ Instead of using six hexadecimal digits like you do with hex code,
 with RGB you specify the brightness of each color with a number between 0 and 255.
 If you do the math, the two digits for one color equal 16 times 16, which gives us 256 total values.
 So RGB, which starts counting from zero, has the exact same number of possible values as hex code.
+
+Color	RGB
+
+Blue	rgb(0, 0, 255)
+Red	rgb(255, 0, 0)
+Orchid	rgb(218, 112, 214)
+Sienna	rgb(160, 82, 45)
+
+
